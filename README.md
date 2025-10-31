@@ -30,6 +30,7 @@ const me = {
 <div align="center">
 
 [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
+[![Google Data Analytics](https://img.shields.io/badge/Google-Data_Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/professional-certificates/google-data-analytics)
 [![AWS Cloud Club](https://img.shields.io/badge/AWS_Cloud_Club-Former_Usher-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
 </div>
