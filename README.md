@@ -28,9 +28,11 @@
   <br/>
 
   <!-- GitHub Stats: Recruiters love data -->
+
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=kierre-yes&show_icons=true&theme=transparent&hide_border=true&title_color=333&text_color=555&icon_color=333" alt="GitHub Stats" height="160" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kierre-yes&layout=compact&theme=transparent&hide_border=true&title_color=333&text_color=555" alt="Top Languages" height="160" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kierre-yes&theme=github_dark" alt="GitHub Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kierre-yes&theme=github_dark" alt="Top Languages" />
+    <img src="https://streak-stats.demolab.com?user=kierre-yes&theme=github-dark-blue&hide_border=true" alt="Streak Stats" />
   </div>
 
   <br/>
